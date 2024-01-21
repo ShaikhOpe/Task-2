@@ -1,3 +1,5 @@
+// If the user buys at least 3 items of type 'clothing', apply an additional 3% discount.
+
 // Number of clothing items purchase -
 const items = 3;
 // Price per item -
