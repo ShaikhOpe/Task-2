@@ -1,3 +1,5 @@
+// If the user buys more than 10 items, apply a 10% discount.
+
 // Number of items purchase -
     let items = 10;
     
