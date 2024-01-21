@@ -1,3 +1,5 @@
+// If the user buys at least 5 items of type 'electronic', apply an additional 5% discount.
+
 // Number of electronic items purchase -
     const items = 5;
 // Price per item -
